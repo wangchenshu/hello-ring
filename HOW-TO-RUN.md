@@ -1,4 +1,9 @@
 # How to run
+
+## Install leiningen
+Please reference [My Clojure-102](https://github.com/wangchenshu/clojure-102/blob/master/clojure-102.org)
+
+## Run
       $ lein deps
       $ lein repl
       $ user=> (use 'ring.adapter.jetty)
